@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NUnit/3.13.2": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/_._": {}
+        }
+      },
+      "NUnit3TestAdapter/4.0.0": {
+        "type": "package",
+        "build": {
+          "build/netcoreapp2.1/_._": {}
+        }
+      },
+      "CustomerOrderService.Tests/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "NUnit": "3.13.2",
+          "NUnit3TestAdapter": "4.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CustomerOrderService.Tests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomerOrderService.Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NUnit/3.13.2": {
+      "sha512": "u+fz/lXyR4vlamySNAEMrXvh+GhAQiB6/aVZtU5WjivR5zF26Ui0tfteDtWqT90k9D8y6g8rFKYQC97Z7d195w==",
+      "type": "package",
+      "path": "nunit/3.13.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.md",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.xml",
+        "lib/netstandard2.0/nunit.framework.dll",
+        "lib/netstandard2.0/nunit.framework.xml",
+        "nunit.3.13.2.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "NUnit3TestAdapter/4.0.0": {
+      "sha512": "5gCkytgQWL93M5s9Rnl4CfSUhn95VsuMVLYjmZe8K7dNRF7kzrBMPsBTyLNCga5qLW7RM/o591J+HVrV1QMaVQ==",
+      "type": "package",
+      "path": "nunit3testadapter/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net35/NUnit3.TestAdapter.dll",
+        "build/net35/NUnit3.TestAdapter.pdb",
+        "build/net35/NUnit3TestAdapter.props",
+        "build/net35/nunit.engine.api.dll",
+        "build/net35/nunit.engine.core.dll",
+        "build/net35/nunit.engine.dll",
+        "build/net35/testcentric.engine.metadata.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp2.1/NUnit3TestAdapter.props",
+        "build/netcoreapp2.1/nunit.engine.api.dll",
+        "build/netcoreapp2.1/nunit.engine.core.dll",
+        "build/netcoreapp2.1/nunit.engine.dll",
+        "build/netcoreapp2.1/testcentric.engine.metadata.dll",
+        "nunit3testadapter.4.0.0.nupkg.sha512",
+        "nunit3testadapter.nuspec"
+      ]
+    },
+    "CustomerOrderService.Tests/1.0.0": {
+      "type": "project",
+      "path": "../CustomerOrderService.Tests/CustomerOrderService.Tests.csproj",
+      "msbuildProject": "../CustomerOrderService.Tests/CustomerOrderService.Tests.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CustomerOrderService.Tests >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\CRINK\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Workspace\\SDV502\\SDV502-Stuff\\CustomerOrderService\\CustomerOrderService\\CustomerOrderService.csproj",
+      "projectName": "CustomerOrderService",
+      "projectPath": "C:\\Workspace\\SDV502\\SDV502-Stuff\\CustomerOrderService\\CustomerOrderService\\CustomerOrderService.csproj",
+      "packagesPath": "C:\\Users\\CRINK\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\SDV502\\SDV502-Stuff\\CustomerOrderService\\CustomerOrderService\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\CRINK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Workspace\\SDV502\\SDV502-Stuff\\CustomerOrderService\\CustomerOrderService.Tests\\CustomerOrderService.Tests.csproj": {
+              "projectPath": "C:\\Workspace\\SDV502\\SDV502-Stuff\\CustomerOrderService\\CustomerOrderService.Tests\\CustomerOrderService.Tests.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

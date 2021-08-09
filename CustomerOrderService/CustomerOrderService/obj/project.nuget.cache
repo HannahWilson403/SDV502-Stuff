@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EsJyyzwRyfyw4AOsx8zfVT5MLxPfXoxGKuy1r3P9K7ppxHX4UsNMCPmvJ1N3DXHeqxsCrd5flvQmrD1ugwX0ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\SDV502\\SDV502-Stuff\\CustomerOrderService\\CustomerOrderService\\CustomerOrderService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CRINK\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\CRINK\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

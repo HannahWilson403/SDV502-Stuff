@@ -1,0 +1,15 @@
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\CustomerOrderService.Tests.deps.json
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\CustomerOrderService.Tests.dll
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\obj\Debug\netstandard2.0\CustomerOrderService.Tests.csprojAssemblyReference.cache
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\obj\Debug\netstandard2.0\CustomerOrderService.Tests.AssemblyInfoInputs.cache
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\obj\Debug\netstandard2.0\CustomerOrderService.Tests.AssemblyInfo.cs
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\nunit.engine.core.dll
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\testcentric.engine.metadata.dll
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\bin\Debug\netstandard2.0\CustomerOrderService.Tests.pdb
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\obj\Debug\netstandard2.0\CustomerOrderService.Tests.csproj.CoreCompileInputs.cache
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\obj\Debug\netstandard2.0\CustomerOrderService.Tests.dll
+C:\Workspace\SDV502\SDV502-Stuff\CustomerOrderService\CustomerOrderService.Tests\obj\Debug\netstandard2.0\CustomerOrderService.Tests.pdb
