@@ -106,6 +106,7 @@ namespace CinemaApp
             return result;
         }
 
+        //Oh the last function is worded weird.It means that kids get a special discount on Wednesday's as long as its not a public holiday. or some weird shit like that
         public decimal Kids_Careers(int pr_quantity, string pr_day, bool pr_holiday)
         {
             decimal ticket_price = 12.00M;
